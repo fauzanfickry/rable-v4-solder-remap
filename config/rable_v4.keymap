@@ -31,7 +31,7 @@
             // ----------------------------------------------------------------------------------------------------------------
 
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp GRAVE  &kp GRAVE  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &out OUT_USB  &trans  &trans  &trans  &kp UP_ARROW  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &bt BT_CLR  &trans  &out OUT_BLE  &trans  &trans  &trans  &trans  &kp DOWN_ARROW  &mo 2  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp GRAVE  &kp GRAVE  &sys_reset  &trans  &trans  &trans  &trans  &trans  &trans  &out OUT_USB  &trans  &trans  &trans  &kp UP_ARROW  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &bt BT_CLR  &trans  &out OUT_BLE  &trans  &trans  &trans  &trans  &kp DOWN_ARROW  &mo 2  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
